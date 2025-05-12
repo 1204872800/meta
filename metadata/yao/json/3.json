@@ -1,0 +1,9 @@
+{
+  "description": "This is a very beautiful artwork.",
+  "image": "https://raw.githubusercontent.com/1204872800/artwork/main/metadata/img/h3.png",
+  "name": "Ceramics",
+  "attributes": [{
+    "trait_type": "Color",
+    "value": "green"
+  }]
+}
