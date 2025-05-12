@@ -8,5 +8,5 @@
 
 nft元数据，名称，介绍，特征等
 
-### 项目链接1
+### 项目链接
 See [Configuration Reference](https://cli.vuejs.org/config/).
