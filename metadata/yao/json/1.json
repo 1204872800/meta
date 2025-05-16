@@ -1,9 +1,15 @@
 {
   "description": "蒋蓉大师善于观察花鸟鱼虫等生活中的自然事物，善于抓住有趣神态瞬间，将生活中的日常所见化作妙趣天成的艺术品。此壶为蒋蓉早期作品，壶体以树桩为取材元素，以蚕作壶钮，整体结构协调统一、造型完美、做工细腻、形象逼真，实乃一把难得的大师精品.",
-  "image": "https://raw.githubusercontent.com/1204872800/artwork/main/metadata/img/h1.png",
+  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/1.png",
   "name": "蒋蓉制蚕宝树桩壶",
   "attributes": [{
     "trait_type": "容量",
     "value": "510CC"
+  },{
+    "trait_type": "【底款】",
+    "value": "蒋蓉"
+  },{
+    "trait_type": "【盖款】",
+    "value": "蒋蓉"
   }]
 }
