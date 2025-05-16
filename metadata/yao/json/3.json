@@ -1,9 +1,15 @@
 {
-  "description": "This is a very beautiful artwork.",
-  "image": "https://raw.githubusercontent.com/1204872800/artwork/main/metadata/img/h3.png",
-  "name": "Ceramics",
+  "description": "赏析：此壶是紫砂茗虚名种里较为常见的一种款式，亦是一种茶壶款式的专用名称。顾景舟大师由于早时曾跟有“洋桶王”之称的储铭学壶。所以洋桶成了他早年做得最多的一种造型，也是顾景丹大师的得意之作，常常被引以为经典。此壶壶身刻绘也为顾景舟大师亲手篆刻，铭文精美，篆刻有力，与壶体相得益彰。《洋桶壶》一直成为人们追逐、使用、收藏的目标。有好壶者甚至以购到一把上好的《洋桶壶》而自豪骄傲。因此《洋桶壶》影响之广、之深、之大，在特定年代里是为壶界所承认的历史事实，也是紫砂历史上应该书写，而不应该遗忘的一页篇章。",
+  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/3.jpg",
+  "name": "顾景舟制牛盖洋桶壶",
   "attributes": [{
-    "trait_type": "Color",
-    "value": "green"
+    "trait_type": "容量",
+    "value": "800CC"
+  },{
+    "trait_type": "【底款】",
+    "value": "曼晞陶艺"
+  },{
+    "trait_type": "【盖款】",
+    "value": "顾景洲"
   }]
 }
