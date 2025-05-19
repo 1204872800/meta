@@ -1,15 +1,1 @@
-{
-  "description": "赏析：此壶采用民国绿泥制作，方壶高体。梅花装饰，细节比例协调，做工精湛、细腻、新颖彰显了作者极佳的制壶技巧。",
-  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/32.jpg",
-  "name": "陈国良制梅花四方壶",
-  "attributes": [{
-    "trait_type": "容量",
-    "value": "600CC"
-  },{
-    "trait_type": "【底款】",
-    "value": "陈国良制"
-  },{
-    "trait_type": "【盖款】",
-    "value": "国良"
-  }]
-}
+{"description":"赏析：此壶采用民国绿泥制作，方壶高体。梅花装饰，细节比例协调，做工精湛、细腻、新颖彰显了作者极佳的制壶技巧。","image":"https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/32.jpg","name":"陈国良制梅花四方壶","attributes":[{"trait_type":"容量","value":"600CC"},{"trait_type":"【底款】","value":"陈国良制"},{"trait_type":"【盖款】","value":"国良"},{"trait_type":"hash","value":"69efc2f1dd0943789e03d5567337dc051929fa4deb439295fce37d5b9c400934"}]}

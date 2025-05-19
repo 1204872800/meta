@@ -1,15 +1,1 @@
-{
-  "description": "赏析：此壶选用原矿紫泥，砂质细腻，器型以树桩为主体，工艺精湛，气度非凡，优雅、落落大方。桑果装饰，点缀，树桩老旧沧桑，嵌盖设计制作绝妙，纹丝合缝，集中表现了作者的艺术功力。",
-  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/17.jpg",
-  "name": "汪寅仙制桑果树桩壶",
-  "attributes": [{
-    "trait_type": "容量",
-    "value": "450CC"
-  },{
-    "trait_type": "【底款】",
-    "value": "汪寅仙"
-  },{
-    "trait_type": "【盖款】",
-    "value": "汪、寅仙"
-  }]
-}
+{"description":"赏析：此壶选用原矿紫泥，砂质细腻，器型以树桩为主体，工艺精湛，气度非凡，优雅、落落大方。桑果装饰，点缀，树桩老旧沧桑，嵌盖设计制作绝妙，纹丝合缝，集中表现了作者的艺术功力。","image":"https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/17.jpg","name":"汪寅仙制桑果树桩壶","attributes":[{"trait_type":"容量","value":"450CC"},{"trait_type":"【底款】","value":"汪寅仙"},{"trait_type":"【盖款】","value":"汪、寅仙"},{"trait_type":"hash","value":"47a7e9ac63129d758c0587ae430815bd9862925dd39a48f2f711f1aae0fb084a"}]}

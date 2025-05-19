@@ -1,18 +1,1 @@
-{
-  "description": "赏析：此壶为传统经典壶型，壶体浑圆，耳、形、把、壶嘴粗中有力，圆形壺钮如神来之笔，巧作点缀使整壶雄峻大气。整壶以饱满浑厚见长壶足沉稳，壶把壮硕与曲粗的壺嘴相对应，妙趣横生，古拙可爱。",
-  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/24.jpg",
-  "name": "鲍志强制一粒珠壶",
-  "attributes": [{
-    "trait_type": "容量",
-    "value": "400CC"
-  },{
-    "trait_type": "【底款】",
-    "value": "鲍志强制"
-  },{
-    "trait_type": "【盖款】",
-    "value": "鲍、志强"
-  },{
-    "trait_type": "【盖款】",
-    "value": "鲍"
-  }]
-}
+{"description":"赏析：此壶为传统经典壶型，壶体浑圆，耳、形、把、壶嘴粗中有力，圆形壺钮如神来之笔，巧作点缀使整壶雄峻大气。整壶以饱满浑厚见长壶足沉稳，壶把壮硕与曲粗的壺嘴相对应，妙趣横生，古拙可爱。","image":"https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/24.jpg","name":"鲍志强制一粒珠壶","attributes":[{"trait_type":"容量","value":"400CC"},{"trait_type":"【底款】","value":"鲍志强制"},{"trait_type":"【盖款】","value":"鲍、志强"},{"trait_type":"【盖款】","value":"鲍"},{"trait_type":"hash","value":"7ac3a5babdbf8280ea59756dd361ba3373a299e7041c23697bb74a324d06aaab"}]}

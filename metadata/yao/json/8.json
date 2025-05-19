@@ -1,15 +1,1 @@
-{
-  "description": "赏析：此壶选用原矿老紫泥，壶盖以松鼠装饰，加以梅花衬托，似有暗香袭来。壶体饱满线条流畅，沉稳端庄，清雅自然，清晰逼真，美妙有趣。",
-  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/8.jpg",
-  "name": "何道洪制松鼠梅花壶",
-  "attributes": [{
-    "trait_type": "容量",
-    "value": "500CC"
-  },{
-    "trait_type": "【底款】",
-    "value": "道洪制壶"
-  },{
-    "trait_type": "【盖款】",
-    "value": "何、道洪"
-  }]
-}
+{"description":"赏析：此壶选用原矿老紫泥，壶盖以松鼠装饰，加以梅花衬托，似有暗香袭来。壶体饱满线条流畅，沉稳端庄，清雅自然，清晰逼真，美妙有趣。","image":"https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/8.jpg","name":"何道洪制松鼠梅花壶","attributes":[{"trait_type":"容量","value":"500CC"},{"trait_type":"【底款】","value":"道洪制壶"},{"trait_type":"【盖款】","value":"何、道洪"},{"trait_type":"hash","value":"5a0b3a616ecca07053f1e7f4209265a1366c9489bbf752b0c313d15135e1de5a"}]}
