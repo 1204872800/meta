@@ -1,15 +1,1 @@
-{
-  "description": "赏析：此壶以原矿清水泥精心制作而成，包浆自然厚重，有朱泥的神韵，壶体呈柿形，形态饱满，线条流畅，壶梁挺拔、有力，弯曲自然，与壶体形成空间之美，方便携带。",
-  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/36.jpg",
-  "name": "高建芳制柿形提梁壶",
-  "attributes": [{
-    "trait_type": "容量",
-    "value": "750CC"
-  },{
-    "trait_type": "【底款】",
-    "value": "高建芳"
-  },{
-    "trait_type": "【盖款】",
-    "value": "高、建芳"
-  }]
-}
+{"description":"赏析：此壶以原矿清水泥精心制作而成，包浆自然厚重，有朱泥的神韵，壶体呈柿形，形态饱满，线条流畅，壶梁挺拔、有力，弯曲自然，与壶体形成空间之美，方便携带。","image":"https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/36.jpg","name":"高建芳制柿形提梁壶","attributes":[{"trait_type":"容量","value":"750CC"},{"trait_type":"【底款】","value":"高建芳"},{"trait_type":"【盖款】","value":"高、建芳"},{"trait_type":"hash","value":"d99c3b5540b347ddda4e94489a5431c2420308c5e22bd0efb0225848b73829b6"}]}

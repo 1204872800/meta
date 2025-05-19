@@ -1,15 +1,1 @@
-{
-  "description": "赏析：此壶选用优质原矿紫砂精心制作，身、形、把，三弯壶流，密封性好。器形端庄秀丽，壶肩圆线装饰，更显整壶之体感美。",
-  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/4.jpg",
-  "name": "朱可心制小奖杯壶",
-  "attributes": [{
-    "trait_type": "容量",
-    "value": "450CC"
-  },{
-    "trait_type": "【底款】",
-    "value": "朱可心"
-  },{
-    "trait_type": "【盖款】",
-    "value": "可心"
-  }]
-}
+{"description":"赏析：此壶选用优质原矿紫砂精心制作，身、形、把，三弯壶流，密封性好。器形端庄秀丽，壶肩圆线装饰，更显整壶之体感美。","image":"https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/4.jpg","name":"朱可心制小奖杯壶","attributes":[{"trait_type":"容量","value":"450CC"},{"trait_type":"【底款】","value":"朱可心"},{"trait_type":"【盖款】","value":"可心"},{"trait_type":"hash","value":"bc1b2772a8890ef6d7e3a070a48801cdcc955e7bcaeb146f7f86807a3b3c5986"}]}

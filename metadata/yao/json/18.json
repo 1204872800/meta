@@ -1,15 +1,1 @@
-{
-  "description": "赏析：此壶选用底槽青泥，以竹为主题，突出表现竹子的高洁俊美。通体圆韵大气，壶肩圆润、饱满，壶足沉稳，整壶气势雄峻，各部分比例与整体线条协调统一，壮而不臃，硕而有力。",
-  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/18.jpg",
-  "name": "周桂珍制大圆竹壶",
-  "attributes": [{
-    "trait_type": "容量",
-    "value": "650CC"
-  },{
-    "trait_type": "【底款】",
-    "value": "周桂珍"
-  },{
-    "trait_type": "【把款】",
-    "value": "周"
-  }]
-}
+{"description":"赏析：此壶选用底槽青泥，以竹为主题，突出表现竹子的高洁俊美。通体圆韵大气，壶肩圆润、饱满，壶足沉稳，整壶气势雄峻，各部分比例与整体线条协调统一，壮而不臃，硕而有力。","image":"https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/18.jpg","name":"周桂珍制大圆竹壶","attributes":[{"trait_type":"容量","value":"650CC"},{"trait_type":"【底款】","value":"周桂珍"},{"trait_type":"【把款】","value":"周"},{"trait_type":"hash","value":"aa451794b9ae07d4f9993500caa2cfd0b39780dc85c420f735656ff260d8a85a"}]}

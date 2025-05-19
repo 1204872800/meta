@@ -1,15 +1,1 @@
-{
-  "description": "赏析：云龙壶基于鱼化龙壶造型，壶呈紫红色，壶身绘有夏日流动云彩的浮雕，并塑有两条巨龙在云间翻腾。其中一条龙浮出壶盖，龙头伸缩自如，从云端垂出龙尾构成完整的壶钮，活灵活现。壶身所塑另外一条龙白云端向下气韵贯通。形姿生动，此壶整体轻盈灵秀，为朱可心佳作之一。",
-  "image": "https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/10.jpg",
-  "name": "朱可心制云龙壶",
-  "attributes": [{
-    "trait_type": "容量",
-    "value": "1300CC"
-  },{
-    "trait_type": "【底款】",
-    "value": "朱可心"
-  },{
-    "trait_type": "【盖款】",
-    "value": "可心"
-  }]
-}
+{"description":"赏析：云龙壶基于鱼化龙壶造型，壶呈紫红色，壶身绘有夏日流动云彩的浮雕，并塑有两条巨龙在云间翻腾。其中一条龙浮出壶盖，龙头伸缩自如，从云端垂出龙尾构成完整的壶钮，活灵活现。壶身所塑另外一条龙白云端向下气韵贯通。形姿生动，此壶整体轻盈灵秀，为朱可心佳作之一。","image":"https://raw.githubusercontent.com/1204872800/meta/main/metadata/yao/img/10.jpg","name":"朱可心制云龙壶","attributes":[{"trait_type":"容量","value":"1300CC"},{"trait_type":"【底款】","value":"朱可心"},{"trait_type":"【盖款】","value":"可心"},{"trait_type":"hash","value":"ed0cf341c14e73ad18d1f1fbcc7126635b497c3902108ea5f38f595280b8d6d2"}]}
