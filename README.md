@@ -1,4 +1,4 @@
-# NFT陶瓷艺术品元数据
+# NFT艺术品元数据
 
 ### img目录
 
@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/1204872800/meta/main/metadata/项目名/json/1
 
 
 ### hash.js 用途
-计算NFT图片真实唯一值，利于版权保护
+计算NFT图片唯一hash值，利于版权保护
 ### hash.js 用法
 修改项目名，执行node hash.js，等待执行完毕即可
 
