@@ -24,9 +24,9 @@ git clone https://github.com/1204872800/artwork.git
 ### 5.访问方式
 
 #### 1.图片
-https://raw.githubusercontent.com/1204872800/meta/main/metadata/项目名/img/1.jpg
+https://raw.githubusercontent.com/1204872800/meta/main/metadata/项目名/img/tokenId.jpg
 #### 2.json
-https://raw.githubusercontent.com/1204872800/meta/main/metadata/项目名/json/1.json
+https://raw.githubusercontent.com/1204872800/meta/main/metadata/项目名/json/tokenId.json
 
 
 ### hash.js 用途
