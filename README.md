@@ -8,5 +8,31 @@
 
 nft元数据，名称，介绍，特征等
 
-### 项目链接1
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<!-- ### 项目链接
+See [Configuration Reference](https://cli.vuejs.org/config/). -->
+
+## 使用方式：
+### 1.拉取代码
+git clone https://github.com/1204872800/artwork.git
+
+### 2.切换分支，创建新文件夹
+
+### 3.提交元数据
+
+### 4.申请合并
+
+### 5.访问方式
+
+#### 1.图片
+https://raw.githubusercontent.com/1204872800/meta/main/metadata/项目名/img/1.jpg
+#### 2.json
+https://raw.githubusercontent.com/1204872800/meta/main/metadata/项目名/json/1.json
+
+
+### hash.js 用途
+计算NFT图片真实唯一值，
+### hash.js 用法
+修改项目名，执行node hash.js，等待指向完毕即可
+
+
+tip：提交的元数据永远存在
